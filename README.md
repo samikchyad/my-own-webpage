@@ -45,6 +45,6 @@ Open a browser and go to https://username.github.io.
 
 ### Add information about yourself to the page
 
-Use the content of index.html file from the previous workshop as an inspiration fro building you webpage. Alternatively, use the below resources/example:
+Use the content of index.html file from the [previous workshop](https://github.com/coding-sisterhood/html-css-workshop/blob/main/README.md) as an inspiration for building you webpage. Alternatively, use the below resources/example:
 
 TBC
