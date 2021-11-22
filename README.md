@@ -1,4 +1,4 @@
-# HTML & CSS workshop 2: My Own Live Webpage project
+# HTML & CSS workshop 2: Let's get your webpage live!
 
 You will build your webpage and get it live on github
 
@@ -10,7 +10,7 @@ Follow the instructions from `Part 1: Configuring your GitHub account` [here](ht
 
 ### Create a repository
 
-Head over to GitHub and create a new public repository named username.github.io, where username is your username (or organization name) on GitHub.
+Head over to GitHub and create a new public repository named username.github.io, where username is your username on GitHub.
 
 If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
 
