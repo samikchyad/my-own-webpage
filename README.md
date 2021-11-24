@@ -64,7 +64,7 @@ Add, commit, and push your changes:
 
 ```
 git add --all
-git commit -m "Initial commit"
+git commit -m "Second commit"
 git push -u origin main
 ```
 
